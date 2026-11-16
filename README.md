@@ -26,7 +26,7 @@ On one Mac mini (Apple M6, macOS 27) with an UltraStudio Monitor 3G:
   - With Stillcolor off and the dithering flag confirmed on, 2,408 frames had stray changes in 3, at the same app switch.
   - The remaining frames were identical outside the redrawn areas, including over photos with smooth tones.
 - **The box output is steady.** A 16-minute session sent 58,859 frames at 60 fps, with 0 late and 1 dropped.
-- **The author finds it comfortable.** That's one person, so treat it as a lead, not a result.
+- **Same monitor, two paths.** The author compared one portable monitor (a generic 17.3" 1080p panel) both ways. Plugged straight into the Mac, it's uncomfortable. Through the box with Clean Mirror, it's comfortable. Same panel, same backlight; only the path the picture takes changed. That's one person and not blinded, so treat it as a lead, not a result.
 
 Not yet measured: the box's HDMI output with an RGB 4:4:4 capture device. If you have one, results are very welcome.
 

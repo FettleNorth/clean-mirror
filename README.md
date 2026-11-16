@@ -52,7 +52,7 @@ If you already have a Blackmagic playback box, you can test the principle first:
 ## Build
 
 ```bash
-git clone https://github.com/<you>/clean-mirror.git
+git clone https://github.com/FettleNorth/clean-mirror.git
 cd clean-mirror
 swift build -c release
 ```

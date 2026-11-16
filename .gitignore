@@ -1,0 +1,11 @@
+# Build output
+.build/
+.swiftpm/
+dist/
+
+# Private: project notes and self-test results (the images are screenshots of the screen)
+CLAUDE.md
+selftest-*
+
+# macOS
+.DS_Store

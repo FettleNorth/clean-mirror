@@ -1,0 +1,18 @@
+Clean Mirror includes files from the Blackmagic Design Desktop Video SDK 16.0
+(DeckLink API), in Sources/DeckLinkShim/sdk:
+
+  DeckLinkAPI.h, DeckLinkAPIConfiguration.h, DeckLinkAPIDeckControl.h,
+  DeckLinkAPIDiscovery.h, DeckLinkAPIDispatch.cpp, DeckLinkAPIModes.h,
+  DeckLinkAPIStreaming.h, DeckLinkAPITypes.h, DeckLinkAPIVersion.h
+
+Copyright (c) 2026 Blackmagic Design. These files are distributed under the
+licence stated in each file's header, which must be kept with them, and subject
+to Blackmagic Design's End User License Agreement for the DeckLink SDK:
+https://www.blackmagicdesign.com/EULA/DeckLinkSDK
+
+Blackmagic Design, DeckLink, UltraStudio and Desktop Video are trademarks of
+Blackmagic Design. Clean Mirror is not affiliated with or endorsed by
+Blackmagic Design.
+
+Running Clean Mirror requires Blackmagic Desktop Video (the driver), which is
+not included and is available from Blackmagic Design.
